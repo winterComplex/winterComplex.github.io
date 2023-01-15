@@ -43,7 +43,7 @@ logo:                  /assets/image23/wwcs23_logo_whitefont.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                wwcs2023
+  name:                winterComplex
   email:               wwcs.steering@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             winter_complex
@@ -124,11 +124,11 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
-  - scope:
-      type:            projects
-    values:
-      seo:
-        type:          WebPage
+#   - scope:
+#       type:            projects
+#     values:
+#       seo:
+#         type:          WebPage
   - scope:
       type:            featured_categories
     values:
@@ -146,7 +146,7 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-142483981-1
+# google_analytics:      UA-142483981-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
