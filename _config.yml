@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://wwcs2023.github.io
+url:                   https://winterComplex.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Winter Workshop on Complex Systems 2023
+title:                 Winter Workshop on Complex Systems
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -31,7 +31,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  Jan 30 -- Feb 3 2023, Amsterdam
+  Winter Workshop on Complex Systems
 
 # A list of keywords for your blog
 keywords:              []
@@ -44,10 +44,10 @@ logo:                  /assets/image23/wwcs23_logo_whitefont.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                wwcs2023
-  email:               2022wwcs@gmail.com
+  email:               wwcs.steering@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             winter_complex
-  github:              wwcs2023
+  github:              winterComplex
 
 # Add links to the sidebar.
 #menu:
@@ -61,22 +61,22 @@ author:
 menu:
   - title: About
     url: /about/
-  - title: Program
-    url:   /program/
-  - title: Speakers
-    url:   /speakers/
-  - title: Venue
-    url:   /venue/
-  - title: Accommodation
-    url:   /accommodation/
+#  - title: Program
+#    url:   /program/
+#  - title: Speakers
+#    url:   /speakers/
+#  - title: Venue
+#    url:   /venue/
+#  - title: Accommodation
+#    url:   /accommodation/
 #  - title: Registration
 #    url: /registration/
-  - title: Committees
-    url:   /committees/
-  - title: Application
-    url:   /application/
-  - title: Support
-    url:   /support/
+#  - title: Committees
+#    url:   /committees/
+#  - title: Application
+#    url:   /application/
+#  - title: Support
+#    url:   /support/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -87,7 +87,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:            WWCS © 2023. All rights reserved.
+copyright:            MIT license
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
