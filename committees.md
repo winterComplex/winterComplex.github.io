@@ -1,9 +1,7 @@
 ---
 layout: page
-title:  Committees
+title:  Steering Committee
 ---
-
-## Steering Committee
 
 | Claire Lagesse | Furkan Gursoy | Adam Finnemann |
 | :------------: | :------------: | :------------: |
@@ -15,7 +13,7 @@ title:  Committees
 | <img src="/assets/image24/committee/alex.jpg" width="120px" /> | <img src="/assets/image24/committee/matteo.jpg" width="120px" /> | <img src="/assets/image24/committee/eric.png" width="120px" /> |
 | University of Zurich, <br> Switzerland | Sapienza University <br> of Rome, Italy | IAS, University van Amsterdam <br> The Netherlands |
 
-| Karoline Huth | Jonas Haslbeck |
+| Karoline Huth | [Jonas Haslbeck](https://jonashaslbeck.com/) |
 | :-----------: | :-----------: |
 | <img src="/assets/image24/committee/karoline.jpg" width="120px" /> | <img src="/assets/image24/committee/jonas.jpg" width="120px" /> |
 | University van Amsterdam, <br> The Netherlands | Maastricht University, <br> The Netherlands |
