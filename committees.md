@@ -5,7 +5,7 @@ title:  Steering Committee
 
 | Claire Lagesse | Furkan Gursoy | Adam Finnemann |
 | :------------: | :------------: | :------------: |
-| <img src="/assets/image23/committee/SC/claire.jpg" width="120px" /> | <img src="/assets/image23/committee/furkan.jpg" width="120px" /> | <img src="/assets/image23/committee/adam.png" width="120px" /> |
+| <img src="/assets/image23/committee/claire.jpg" width="120px" /> | <img src="/assets/image23/committee/furkan.jpg" width="120px" /> | <img src="/assets/image23/committee/adam.png" width="120px" /> |
 | University of Burgundy, <br> France | University of Houston, <br> USA | University van Amsterdam, <br> The Netherlands |
 
 | Alexandre Bovet | Matteo Cinelli | Eric Dignum |
