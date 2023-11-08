@@ -1,28 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: about #home il layout home ti mette la lista di pagine
-title: Winter Workshop on Complex Systems 2023
+title: Winter Workshop on Complex Systems
 ---
 
-The **Winter Workshop on Complex Systems** is a one-week workshop where young researchers from all over the world come together to work together on interdisciplinary projects around complex systems.
+The **Winter Workshop on Complex Systems** is a one-week workshop where young researchers from all over the world come together to work together on interdisciplinary projects around complex systems. The primary focus of the workshop is to create a community of early career complexity researchers and to engage in exciting interdisciplinary projects. 
 
-**The primary focus of the workshop is for participants to engage into novel research projects.**
-
-This is the 8th edition of the WWCS and it will be held in Amsterdam from **January 30th to Feb 3rd 2023**.
-Previously it was held in Brussels, [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/), Zakopane, [Charmey](https://wwcs2020.github.io/), [Besançon](https://wwcs2022.github.io/), and [Amsterdam](https://wwcs2023.github.io/).
+This is the 8th edition of the WWCS took place in in Brussels, [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/), Zakopane, [Charmey](https://wwcs2020.github.io/), [Besançon](https://wwcs2022.github.io/), and [Amsterdam](https://wwcs2023.github.io/).
 
 
-The WWCS 2024 will take place in the Pyrennees. For more details see [here](https://wwcs2024.github.io).
-
-
-## Applications:
-- Start of applications: Sept 21st
-- Deadline for applications: Oct 31st
-- Notification of acceptance: Nov 15th
-
-## Workshop Dates:
-- **January 30th to Feb 3rd 2023**
+The next WWCS will take place Jan 21-26 2024 in the Pyrenees. For more details see [here](https://wwcs2024.github.io).
 
 
 # Contacts
