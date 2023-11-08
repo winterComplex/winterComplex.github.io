@@ -10,10 +10,11 @@ The **Winter Workshop on Complex Systems** is a one-week workshop where young re
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
 This is the 8th edition of the WWCS and it will be held in Amsterdam from **January 30th to Feb 3rd 2023**.
-Previously it was held in Brussels, [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/), Zakopane, [Charmey](https://wwcs2020.github.io/), and [Besançon](https://wwcs2022.github.io/).
+Previously it was held in Brussels, [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/), Zakopane, [Charmey](https://wwcs2020.github.io/), [Besançon](https://wwcs2022.github.io/), and [Amsterdam](https://wwcs2023.github.io/).
 
 
-# Important Dates
+The WWCS 2024 will take place in the Pyrennees. For more details see [here](https://wwcs2024.github.io).
+
 
 ## Applications:
 - Start of applications: Sept 21st
@@ -26,7 +27,7 @@ Previously it was held in Brussels, [Madrid](http://wwcs2016.altervista.org/wwcs
 
 # Contacts
 
-Email us at: [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gmail.com)
+Email us at: [wwcs.steering@gmail.com](mailto:wwcs.steering@gmail.com)
 <!-- Twitter: "@winter_complex" -->
 
 <center>
